@@ -6,8 +6,8 @@ public class areaOfCircle {
         float area = 3.14f * rad * rad;
         System.out.println(area);
 
-        float a = 25.9999f;
-        int b = (int) a;
-        System.out.println(b);
+        // float a = 25.9999f;
+        // int b = (int) a;
+        // System.out.println(b);
     }
 }
