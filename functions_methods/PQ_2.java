@@ -1,4 +1,4 @@
-//palindrome - A num is called palindrome if a num is equal to the reverse of a num(e.g 121)
+palindrome - A num is called palindrome if a num is equal to the reverse of a num(e.g 121)
 import java.util.Scanner;
 public class PQ_2 {
     public static void main(String[]args){
@@ -29,3 +29,4 @@ public class PQ_2 {
 
     }
 }
+
